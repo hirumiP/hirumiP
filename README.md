@@ -1,5 +1,6 @@
 
-![Hirumi weerasooriya](https://github.com/hirumiP/hirumiP/assets/155351049/77cc4e92-613d-43c0-9b59-e4aeeb86e59a)
+
+![Hirumi weerasooriya (1)](https://github.com/hirumiP/hirumiP/assets/155351049/7c61990d-7c07-4aaa-b901-acfcc59dec81)
 
 <h1 align="center">Hi 👋, I'm Hirumi Weerasooriya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
