@@ -3,7 +3,7 @@
 ![Hirumi weerasooriya (1)](https://github.com/hirumiP/hirumiP/assets/155351049/7c61990d-7c07-4aaa-b901-acfcc59dec81)
 
 <h1 align="center">Hi 👋, I'm Hirumi Weerasooriya</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirumip" alt="hirumip" /></a> </p>
 
