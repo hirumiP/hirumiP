@@ -10,8 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirumip" alt="hirumip" /></a> </p>
 
 - 🌱 I’m currently learning **Express, React, Android**
-- 👩‍💻 Intern Software Engineer at Sri Lanka Port Aouthority
-- 🎓 Undergraduate at SLIIT, specializing in Information Technology
+- 👩‍💻 **Intern Software Engineer** at **Sri Lanka Port Aouthority**
+- 🎓 Undergraduate at **SLIIT**, specializing in **Information Technology**
+- 📫 How to reach me hirumipraneethya@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
